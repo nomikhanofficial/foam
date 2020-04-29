@@ -1,0 +1,85 @@
+H1
+{
+    color: BLUE;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#f
+{
+    
+    margin-left: 98px;
+}
+
+.FORM
+{
+    background-color: rgba(103, 16, 241, 0.945);
+    text-align: justify;
+    padding: 10px;
+    color:white;
+}
+
+#M
+{
+    margin-left: 100px;
+}
+
+#B
+{
+    margin-left: 55px;
+
+}
+
+#N
+{
+    margin-left: 37px;
+}
+
+#G
+{
+    margin-left: 105px;
+}
+
+#C
+{
+    margin-left: 137px;
+}
+
+#S
+{
+    margin-left: 128PX;
+}
+
+#HO
+{
+    margin-left: 108px;
+}
+#H
+{
+    margin-left: 180px;
+}
+#Co{
+    margin-left: 75px;
+}
+
+#sub
+{
+    margin-left: 30%;
+}
+
+.left
+{
+    float: left;
+    padding-right: 94px;
+}
+
+#tr
+{
+    text-align: center;
+}
+
+table > a
+{
+    max-width: 700px;
+    min-width: 200px;
+}
